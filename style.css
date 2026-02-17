@@ -49,7 +49,7 @@ body {
 .navbar {
     display: flex;
     height: 80px;
-    width: 80%;
+    width: 100%;
      background: url(/images/bg1.jpeg); 
     align-items: center;
     justify-content: space-between;
@@ -128,7 +128,7 @@ ul li:hover::after {
     cursor: pointer;
     display: flex;
     align-items: center;
-
+   
     gap: 25px;
     color: #f2f2f2;
     margin-right: 20px;
