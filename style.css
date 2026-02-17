@@ -52,7 +52,7 @@ body {
     width: 100%;
      background: url(/images/bg1.jpeg); 
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: space-around;
 
     margin: 0 auto;
     top: 0;
