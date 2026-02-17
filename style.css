@@ -485,7 +485,7 @@ ul li {
 }
 
         .contact-container {
-            background: white;
+           
             width:80%;
             display: flex;
             border-radius: 20px;
@@ -496,7 +496,7 @@ ul li {
 
         /* Left Side: Info */
         .contact-info {
-            background: var();
+            background: var(--dark);
             color: rgb(255, 255, 255);
             padding: 40px;
             flex: 1;
