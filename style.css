@@ -211,8 +211,7 @@ ul li:hover::after {
  /* The Main Stage */
         .stage {
             position: relative;
-            width: 30%;
-            height: 400px;
+           
             display: flex;
             justify-content: center;
             align-items: center;
@@ -321,8 +320,7 @@ ul li:hover::after {
         }
 
 .right-box {
-    width: 50%;
-    height: 400px;
+   
 
     color: #f2f2f2;
     text-align: center;
