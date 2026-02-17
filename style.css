@@ -253,8 +253,8 @@ ul li:hover::after {
         /* Rotating Orbit Line */
         .orbit-line {
             position: absolute;
-            width: 420px;
-            height: 420px;
+            width: 30%;
+            height: 400px;
             border: 1px solid rgba(255, 255, 255, 0.05);
             border-radius: 50%;
         }
