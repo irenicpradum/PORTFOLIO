@@ -212,7 +212,10 @@ ul li:hover::after {
     width: 30%;
     height: 400px;
     
-    
+    border-radius: 50%;
+    background: url(/images/colorphoto.png);
+
+    background-size: cover;
 }
   /* The Main Stage */
         .stage {
