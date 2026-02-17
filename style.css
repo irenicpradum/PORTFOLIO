@@ -530,6 +530,7 @@ ul li {
         .contact-form {
             flex: 1.5;
             padding: 40px;
+            background-color: #f2f2f2;
         }
 
         .input-group {
