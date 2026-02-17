@@ -50,7 +50,7 @@ body {
     display: flex;
     height: 80px;
     width: 100%;
-     background: url(/images/bg1.jpeg); 
+     background: transparent; 
     align-items: center;
     justify-content: space-around;
 
