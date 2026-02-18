@@ -204,7 +204,8 @@ ul li:hover::after {
     margin-top: 40px;
     display: flex;
     align-items: center;
-    gap: 80px;
+    justify-content: center;
+    gap: 100px;
 }
 
 
