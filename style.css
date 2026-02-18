@@ -214,7 +214,7 @@ ul li:hover::after {
             width: 30%;
             height: 400px;
             display: flex;
-            justify-content: center;
+            gap: 50px;
             align-items: center;
            
         }
